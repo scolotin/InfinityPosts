@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="post_list_horizontal_padding">16dp</dimen>
+    <dimen name="item_post_ic_comment_draw_padding">12dp</dimen>
+    <dimen name="item_post_ic_rate_draw_padding">8dp</dimen>
+    <dimen name="item_post_counter_text_size">14sp</dimen>
+    <dimen name="item_post_text_size">16sp</dimen>
+    <dimen name="item_post_text_margin_top">12dp</dimen>
+    <dimen name="item_post_rate_margin_top">16dp</dimen>
+    <dimen name="item_post_rate_margin_bottom">12dp</dimen>
+    <dimen name="item_post_comment_margin_top">16dp</dimen>
+    <dimen name="item_post_comment_margin_end">40dp</dimen>
+    <dimen name="item_post_comment_margin_bottom">12dp</dimen>
+</resources>
